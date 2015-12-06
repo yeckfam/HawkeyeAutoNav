@@ -1,5 +1,5 @@
 # HawkeyeAutoNav
 
-Author: Lan Tian
+Main author: Lan Tian
 
 (Please update README accordingly)
